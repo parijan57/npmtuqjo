@@ -1,0 +1,13 @@
+// package.json
+{
+  "name": "npm-project",
+  "version": "1.0.0",
+  "description": "A simple npm project",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
